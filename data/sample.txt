@@ -1,3 +1,316 @@
-This is a small sample text file.
-This file exists so the project can run a simple demo.
-Words repeat, words repeat, and some words appear only once.
+The Project Gutenberg eBook of Réflexions sur Stendhal
+    
+This eBook is for the use of anyone anywhere in the United States and
+most other parts of the world at no cost and with almost no restrictions
+whatsoever. You may copy it, give it away or re-use it under the terms
+of the Project Gutenberg License included with this eBook or online
+at www.gutenberg.org. If you are not located in the United States,
+you will have to check the laws of the country where you are located
+before using this eBook.
+
+Title: Réflexions sur Stendhal
+
+Author: René Boylesve
+
+
+        
+Release date: April 6, 2026 [eBook #78379]
+
+Language: French
+
+Original publication: France: le Divan
+
+Other information and formats: www.gutenberg.org/ebooks/78379
+
+Credits: Laurent Vogel (This file was produced from images generously made available by the Bibliothèque nationale de France (BnF/Gallica))
+
+
+*** START OF THE PROJECT GUTENBERG EBOOK RÉFLEXIONS SUR STENDHAL ***
+
+
+
+
+
+  RENÉ BOYLESVE
+
+  RÉFLEXIONS
+  SUR
+  STENDHAL
+
+
+  PARIS
+  LE DIVAN
+  37, rue Bonaparte, 37
+  1929
+
+
+
+
+    Cet ouvrage a été tiré
+    à neuf exemplaires sur vélin de Rives jonquille,
+    hors commerce, et trois cents exemplaires sur
+    pur fil Lafuma.
+
+
+
+
+AVANT-PROPOS
+
+
+Les feuillets de René Boylesve, que l’on présente ici, ne forment pas
+une étude suivie: ce ne sont que des notes, comme il avait l’habitude
+d’en prendre sur maint sujet; mais leur abondance, sur le sujet de
+Stendhal, révèle le projet d’une étude.
+
+Il les écrivit, presque toutes, dans la seconde moitié de 1914 et au
+commencement de 1915, à propos du livre de Léon Blum: _Stendhal et le
+beylisme_, qui parut chez Ollendorff à la veille de la guerre. Cette
+lecture l’entraîna à relire du Stendhal, ainsi que les pages à lui
+consacrées par Sainte-Beuve, Taine et Bourget. Un plan fut ébauché par
+René Boylesve; quelques alinéas, rédigés; mais la chose en resta là.
+
+La date de 1914 étonne d’abord. Comment, lui dont la pensée toujours
+soucieuse fut irrémédiablement ravagée par la guerre et dès son début,
+comment a-t-il pu s’abstraire du drame à ce point, ne fût-ce qu’une
+heure, et s’attacher à un sujet qui n’y avait aucun rapport visible ou
+urgent? Ce fut l’instinct de conservation morale qui lui inspira cette
+discipline de sereine apparence et de fond pathétique; ce fut le besoin
+de sauvegarder son meilleur esprit, justement pour pouvoir l’appliquer
+au terrible drame. Et comme l’époque l’anéantissait d’autant mieux
+qu’elle le maintenait éloigné de l’action, c’est en dehors du drame
+qu’il pouvait trouver l’indispensable point d’appui: à savoir dans son
+propre sol, et dans la permanence du sol français représenté pour lui,
+dans ces circonstances où tout vacillait, par les Lettres. Stendhal ne
+fut d’ailleurs pas son seul recours en ce genre. René Boylesve relut
+dans le même temps Montaigne, Marc-Aurèle, et les annota aussi.
+
+On ne peut se défendre d’un scrupule: en publiant, si savoureuses
+soient-elles, ces notes de premier jet où plus d’une phrase n’achève
+même pas son déroulement grammatical, ne blesse-t-on pas indiscrètement
+le souvenir de René Boylesve, qui aimait les choses finies? On ne réfute
+certaines objections que par l’argument _ad hominem_; et vous-même,
+Boylesve, n’auriez-vous pas regretté qu’on ne publiât point certaines
+pages inachevées de Stendhal? Pourquoi, en l’honneur de Stendhal, ne
+vous ferait-on pas ouvertement honneur des lignes que vous lui avez
+consacrées?
+
+Disons enfin qu’on n’a pas hésité à reproduire les citations nombreuses
+auxquelles René Boylesve a accroché ses adhésions, ses objections, ou
+ses additions,--ceci était indispensable pour l’intelligence de son
+texte--, et même des citations non commentées, parce qu’un simple choix
+d’extraits peut fournir une précieuse indication sur l’esprit qui s’y
+exerça.
+
+G. G.
+
+
+
+
+RÉFLEXIONS SUR STENDHAL
+
+
+
+
+I
+
+NOTES POUR UNE ÉTUDE
+
+
+1º Gloire paradoxale, pourquoi? (non prévue, non cherchée). Pourquoi?
+parce qu’il représente exactement le contraire de ce que semblent chérir
+nos mœurs contemporaines.
+
+
+α. Il est avant tout psychologue; et l’élite que la psychologie
+intéresse, n’est certes pas plus étendue [aujourd’hui] que du temps de
+Stendhal.
+
+
+β. Il est «trop différent» pour plaire. Nous faisons parfois des succès
+à l’originalité, nous croyons même n’aimer que l’originalité; en fait,
+nous appelons original ce qui est conforme à un certain mouvement encore
+en opposition avec la masse énorme du public, mais dûment adopté dans
+des milieux agités et puissants, souvent sanctionnés par les pouvoirs
+publics qui sont partisans de l’originalité.
+
+
+γ. Son originalité véritable consiste à ne rien faire pour la Société.
+Or nous sommes éminemment au service de la Société. A de rares
+exceptions près, tous nos farouches indépendants parlent ou voudraient
+parler au public; conservateurs ou révolutionnaires tiennent au fond le
+même langage: ils se piquent de toucher l’intérêt commun.
+
+Toute la littérature française, depuis le XVIIe siècle, comme disait
+Brunetière, est «fonction de la Société». Stendhal est, depuis
+Montaigne, le premier écrivain français qui n’exprime que soi-même ou
+que sa vision absolument désintéressée des hommes.
+
+Il conviendrait de rapprocher de lui La Bruyère et La Rochefoucauld,
+qui, toutefois, veulent être lus et, malgré leur audace extrême,
+approuvés. Au sommet de notre littérature, Pascal, si haut et si libre,
+n’est cependant pas seul; il a en face de lui Dieu, et il écrit ses
+pensées dans une intention d’apologétique. Rousseau, indépendant, est un
+moraliste, un apôtre.
+
+Stendhal, comme Claude Bernard devant la vérité scientifique, ne connaît
+que ce que sa géniale intuition lui fait découvrir de soi-même, des
+caractères étrangers, et de la Société; et il n’est pas soupçonnable
+d’avoir une autre fin, en le disant, que d’exprimer ce qui lui paraît
+évident. Il convient d’ajouter que c’est à tort que de pareils écrivains
+semblent ne pas jouer leur rôle dans le concert social: ils servent la
+connaissance de l’homme, qui sert à toute la collectivité; ils servent
+la littérature plus que tous les autres, par quoi ils contribuent à la
+gloire nationale en même temps qu’à celle de l’humanité; et ils ont une
+plus grande chance de durée que ceux qui emploient leur talent à des
+utilités immédiates.
+
+                   *       *       *       *       *
+
+La gloire de Stendhal est à son comble. Je veux dire: la gloire telle
+que nous l’entendons communément, celle qui est proclamée par la
+Renommée aux cent bouches.
+
+En réalité, la gloire véritable n’a rien de commun avec celle-ci qu’on
+dirait être le résultat du suffrage universel. La gloire véritable est
+d’occuper la ferveur d’une élite d’esprits si éminents qu’il y ait
+chance d’abord qu’ils se trompent peu et secondement que leur autorité
+transmettra votre nom plus sûrement que la foule oublieuse. Tout autre
+sorte de gloire peut intéresser, amuser, étourdir--et corrompre--un
+écrivain, mais ne saurait contenter intimement et profondément une
+grande âme.
+
+J’imagine que, des Champs-Élysées où son incomparable esprit repose,
+Stendhal fut aussi satisfait lorsque les élèves de M. Jacquinet, à
+l’École Normale, instituaient, avec raisons à l’appui, son culte[1],
+qu’il le peut être aujourd’hui où son nom fait branler presque toutes
+les têtes et allume un regard d’un si étrange malaise dans les yeux de
+malheureux, qui, sans le comprendre, se croient tenus de l’admirer.
+
+  [1] Jacquinet est ce jeune professeur à l’École Normale qui révéla
+    Stendhal à Taine et à ceux de la célèbre promotion.
+
+                   *       *       *       *       *
+
+Lorsqu’on s’apprête à dire ne fût-ce que quelques mots sur Stendhal, il
+faudrait honnêtement avertir son public et lui demander: «L’homme, tel
+que Dieu et les circonstances de la vie l’ont fait, est-il pour vous
+sujet intéressant et que vous désiriez connaître? ou bien ne vous
+attachez-vous qu’aux idées que la littérature vous habille plus ou moins
+heureusement en hommes?» On pourrait inviter ces derniers à ne point
+écouter.
+
+
+
+
+II
+
+NOTES DE LECTURE
+
+SUR
+
+_VIE DE HENRI BRULARD_
+
+
+Stendhal comme maître, à cause de son horreur de l’emphase, des grands
+mots. Se souvenir qu’il dit, dans la _Vie de Henri Brulard_, que son
+grand-père ne tolérait pas qu’on prononçât un mot qui sentît la
+grandiloquence et que cependant il ne tolérait pas un mot bas. Stendhal
+s’est accoutumé dès son plus jeune âge à l’expression juste. L’horreur
+du style de Chateaubriand et des principes de M. Villemain ont fait le
+reste.
+
+Personnellement, rien ne m’est plus odieux qu’un mot plus grand que ce
+qu’il signifie. Je le préfère pauvre, insuffisant, et que l’idée qu’il
+contient le fasse éclater.
+
+                   *       *       *       *       *
+
+«_L’exaltation espagnole à laquelle j’eus le malheur d’être sujet toute
+ma vie._» _Vie de H. B._, II, 71. (Édition Champion, 1913.)
+
+Qu’il est toujours, avant tout, un homme passionné. Il dit quelque part
+qu’il a la peau et la surface extérieure d’une femme; il n’en a pas que
+cela; il juge presque toujours par passion; il n’a pas aimé les curés ni
+les rois par horreur de son père et de sa tante Séraphie; il a horreur
+de Chrysale et de la comédie bourgeoise, même chez Molière, par haine de
+la vie bourgeoise de Grenoble; il a horreur de Grenoble à cause des
+promenades à Claix; et quand il arrive à Paris, il prend la ville en
+dégoût, parce qu’elle n’a pas de montagnes! parce qu’elle n’a pas de
+montagnes comme en avait Grenoble qu’il détestait!...
+
+«_Dans le fait, je n’avais aimé Paris que par dégoût profond pour
+Grenoble._» _Vie de H. B._, II, 82.
+
+                   *       *       *       *       *
+
+«_Je n’ai jamais cru que la Société me dût la moindre chose. Helvétius
+me sauva de cette énorme sottise. LA SOCIÉTÉ PAIE LES SERVICES QU’ELLE
+VOIT._» _Vie de H. B._, II, 89.
+
+«_Le Tasse [qui espérait que toute l’Italie ferait à son poète une
+pension de deux cents sequins] ne voyait pas, faute d’Helvétius, que les
+cent hommes, qui sur dix millions comprennent LE BEAU qui n’est pas
+imitation ou perfectionnement du BEAU déjà compris par le vulgaire, ont
+besoin de vingt ou trente ans pour persuader aux vingt mille âmes les
+plus sensibles après les leurs que ce nouveau beau est réellement
+beau._» _Vie de H. B._, II, 90.
+
+                   *       *       *       *       *
+
+Son goût pour l’Italie lui vient de la passion pour la vérité, lui vient
+de son jugement _désintéressé_, puis de sa croyance à l’excellence des
+individualités exceptionnelles plutôt qu’à l’excellence d’une société
+ordonnée comme le fut la française.
+
+Son goût pour les «brigands» qu’il avoue au début de l’_Abbesse de
+Castro_. Il admire l’individu énergique et en cela il est avec l’âme
+populaire, ce qui probablement lui fait écrire: «la fibre artiste qui
+vit toujours _dans les basses classes_». (C’est lui qui souligne.)
+Vérité plus profonde qu’il ne l’a pensé peut-être, car il ne les croyait
+artistes que parce qu’elles aiment l’énergie ou l’individualisme
+héroïque contre le pouvoir; et elles sont artistes parce qu’elles
+contiennent l’inépuisable réserve de bon sens et de sensibilité à l’état
+naissant, qui fait inévitablement défaut aux classes supérieures
+déformées et usées par les conventions.
+
+Sa manière d’opposer les brigands italiens à la Société, et les motifs
+qu’il donne de les admirer fait penser qu’il serait aujourd’hui partisan
+des forbans modernes, des grands escrocs comme Deperdussin[2] qui volent
+trente-deux millions, mais avec cela font marcher les industries et
+avancer l’aviation par exemple, que les timides gens sages laisseraient
+volontiers inertes.
+
+  [2] Industriel fameux qui rendit des services à l’aviation dans les
+    années d’avant-guerre, mais que ses procédés conduisirent à une
+    faillite retentissante.
+
+                   *       *       *       *       *
+
+Le romanesque chez Stendhal.
+
+Non seulement son «espagnolisme» auquel il fait de si fréquentes
+allusions; mais se rappeler ce qu’il dit de sa conception de l’homme, la
+première année qu’il a vécu à Paris:
+
+«_Un homme devait être, selon moi, amoureux passionné, et, en même
+temps, portant la joie et le mouvement dans toutes les sociétés où il se
+trouvait._
+
+«_Et encore cette joie universelle, cet art de plaire à tous, ne
+devaient pas être fondés sur l’art de flatter les goûts et les
+faiblesses de tous. Je ne me doutais pas de ce côté de l’art de plaire,
+qui m’eût probablement révolté; l’amabilité que je voulais, était la
+joie pure de Shakespeare dans ses comédies, l’amabilité qui règne à la
+cour du duc exilé dans la forêt des Ardennes._» _Vie de H. B._, II, 111.
+
+                   *       *       *       *       *
+
+Stendhal manque du sens réaliste; il ne l’a acquis, à un degré
+prodigieux, que par dépit et par rage; son réalisme est le résultat d’un
+romantisme ou, si l’on veut, d’un idéalisme froissé.
+
+Après avoir écrit ceci, je trouve:
+
+«_La sagacité, qui n’a jamais été mon fort, me manquait tout à fait.
+J’étais comme un cheval ombrageux qui ne voit pas ce qui est, mais des
+obstacles petits ou imaginaires._» _
